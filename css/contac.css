@@ -1,0 +1,37 @@
+#contact-navegador{
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.alpha{
+    color: black;
+    text-decoration: none;
+}
+#contact-social{
+    text-align: right;
+
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size:75px 
+}
+.subtitulo{
+    font-family: 'Raleway', sans-serif;
+    font-size:22px;
+    font-weight: bold;
+}
+.texto-verde{
+    font-family: 'Raleway', sans-serif;
+    font-size:18px;
+    font-weight: lighter;
+    color: #0BA990  ;
+}
+#info{
+    list-style-type: none;
+    text-decoration: none;
+}
+.beta{
+    color: black;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
